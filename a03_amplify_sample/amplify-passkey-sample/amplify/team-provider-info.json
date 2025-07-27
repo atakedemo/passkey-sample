@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifypasskeysample-dev-152325-authRole",
+      "UnauthRoleArn": "arn:aws:iam::594175341170:role/amplify-amplifypasskeysample-dev-152325-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::594175341170:role/amplify-amplifypasskeysample-dev-152325-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-amplifypasskeysample-dev-152325-deployment",
+      "UnauthRoleName": "amplify-amplifypasskeysample-dev-152325-unauthRole",
+      "StackName": "amplify-amplifypasskeysample-dev-152325",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:594175341170:stack/amplify-amplifypasskeysample-dev-152325/352c6430-6ab2-11f0-a348-0e17004d94e9",
+      "AmplifyAppId": "d2z44acf360pvj"
+    }
+  }
+}

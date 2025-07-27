@@ -1,20 +1,21 @@
 // app/page.tsx
-import Link from 'next/link';
 import React from 'react';
+import AuthContainer from '../components/AuthContainer';
 
 const Home: React.FC = () => {
   return (
     <div style={styles.container}>
-      <h1>Welcome to Next.js on AWS Amplify!</h1>
-      <Link href="/about">Go to About Page</Link>
+      <AuthContainer />
     </div>
   );
 };
 
 const styles: { container: React.CSSProperties } = {
   container: {
-    padding: '2rem',
+    minHeight: '100vh',
+    padding: '1rem',
     fontFamily: 'Arial, sans-serif',
+    backgroundColor: '#f5f5f5',
   },
 };
 

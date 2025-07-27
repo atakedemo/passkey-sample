@@ -11,7 +11,12 @@
   "dependencies": {
     "next": "15.4.4",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react-dom": "19.1.0",
+    "aws-amplify": "^6.0.0",
+    "@aws-amplify/ui-react": "^6.0.0",
+    "@simplewebauthn/browser": "^8.3.4",
+    "@simplewebauthn/server": "^8.3.4",
+    "@simplewebauthn/typescript-types": "^8.3.4"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
